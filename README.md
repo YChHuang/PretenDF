@@ -51,7 +51,7 @@ This tool diagnoses and repairs the following PDF geometry problems:
    ```
 4. analyze and check it:
    ```
-   python main.py analyze fakeland.pdf
+   python main.py analyze fixedland.pdf
    ```
 
 ---
