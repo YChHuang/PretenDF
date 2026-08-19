@@ -1,4 +1,4 @@
-# PrentenDF
+# PretenDF
 
 A PDF geometry normalization tool designed to diagnose and repair
 Fake-Landscape PDF pages caused by incorrect /Rotate metadata and broken
